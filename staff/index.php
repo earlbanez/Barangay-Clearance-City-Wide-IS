@@ -8,10 +8,8 @@ include('person.php');
 <html>
 <head>
 	<title>ClearanceCityWide</title>
-	<link rel = "stylesheet" href = "bootstrap/css/bootstrap.min.css">
+	<link rel = "stylesheet" href = "../bootstrap/css/bootstrap.min.css">
 	<link rel = "stylesheet" href = "font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
-	<link rel = "stylesheet" href = "bootstrap/js/jquery-slim.min.js">
-	<link rel = "stylesheet" href = "bootstrap/js/popper.min.js">
 </head>
 <body>
 	<nav class="navbar navbar-expand-lg  bg-light">

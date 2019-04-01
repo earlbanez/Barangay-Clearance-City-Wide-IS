@@ -7,7 +7,7 @@ include('cedula.php');
 <html>
 <head>
 	<title>ClearanceCityWide</title>
-	<link rel = "stylesheet" href = "bootstrap/css/bootstrap.min.css">
+	<link rel = "stylesheet" href = "../bootstrap/css/bootstrap.min.css">
 	<link rel = "stylesheet" href = "font-awesome-4.7.0/font-awesome-4.7.0/css/font-awesome.min.css">
 </head>
 <body>
